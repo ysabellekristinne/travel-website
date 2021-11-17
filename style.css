@@ -144,10 +144,10 @@ nav ul li a{
     position: absolute;
     bottom: 60px;
     width: 84%;
-    left: 12.5%;
+    left: 15%;
 }
 
 .arrow img{
-    width: 40px;
+    width: 30px;
     cursor: pointer;
 }
